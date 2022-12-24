@@ -1,0 +1,7 @@
+#spring.datasource:
+#  platform: postgres
+#  url: jdbc:mysql://localhost:3306/courses
+#  username: root
+#  password: Testing@1
+#  jpa:
+#    hibernate.ddl-auto: update
